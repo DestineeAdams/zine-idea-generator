@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap');
+
+body{
+
+    background-color:  #96f293;
+    text-align: center;
+
+    color: aliceblue;
+
+    font-family: "Silkscreen", sans-serif;
+    font-style: oblique;
+}
+
+div{
+    margin: 15% 25%;
+    text-align: center;
+
+}
+
+h1{
+    font-size: 250%;
+}
+
+p{
+    font-size: 125%;
+    width: auto;
+}
+
+button{
+  
+    font-size: 100%;
+    background-color: #000000;
+    border: none;
+    padding: 1%;
+    text-align: center;
+    color: aliceblue;
+    
+    font-family: "Silkscreen", sans-serif;
+
+
+
+}
+
+button:hover {
+    background-color: #4eac4b;
+    color: rgb(255, 255, 255);
+    font-family: "Silkscreen", sans-serif;
+    font-style: oblique;
+}
+
+
+ul {
+    list-style: none;
+    }
+    
