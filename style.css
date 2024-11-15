@@ -13,7 +13,6 @@ body{
 
 div{
     margin-top: 20%;
-
 }
 
 h1{
@@ -22,7 +21,6 @@ h1{
 
 p{
     font-size: 125%;
-    width: auto;
 }
 
 button{
@@ -35,9 +33,6 @@ button{
     color: aliceblue;
     
     font-family: "Silkscreen", sans-serif;
-
-
-
 }
 
 button:hover {
@@ -50,5 +45,5 @@ button:hover {
 
 ul {
     list-style: none;
-    }
+}
     
