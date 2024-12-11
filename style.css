@@ -46,4 +46,8 @@ button:hover {
 ul {
     list-style: none;
 }
-    
+
+
+#idea {
+    margin: 20px 100px;
+}

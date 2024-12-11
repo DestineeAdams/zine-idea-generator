@@ -16,7 +16,7 @@ function generate() {
         thing: [
             "photos",
             "drawings",
-            "poetry",
+            "poem",
             "maps"
         ],
     
@@ -49,7 +49,7 @@ function generate() {
     
 
     var element = document.getElementById("idea");
-    element.innerHTML =  `Make a  ${pages} zine about ${nature} with ${thing1} and ${thing2} to capture the ${experience}.`;
+    element.innerHTML =  `Make a  ${pages} page zine about ${nature} with ${thing1} and ${thing2} to capture the ${experience} you had.`;
     
     
 }
