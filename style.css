@@ -1,5 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap');
 
+@font-face {
+    /* font-family: "RoughfontBold";
+    src: url("./fonts/Roughfont-Bold.otf"); */
+
+    font-family: "ThinJotRegular";
+    src: url("./fonts/ThinJot-Regular.otf");
+
+}
+  
 body{
 
     background-color:  #96f293;
@@ -7,20 +16,42 @@ body{
 
     color: aliceblue;
 
-    font-family: "Silkscreen", sans-serif;
+    /* font-family:  "sans-serif"; */
+    /* font-family: "Silkscreen";  */
+    /* font-family: "RoughfontBold";  */
+    /* font-family: "ChonkfontBold";  */
+    font-family: "ThinJotRegular"; 
+
     font-style: oblique;
+    
+
 }
 
 div{
-    margin-top: 10%;
+    background-color: #97fd94;
+    margin: 5% 1%;
+    padding: 5%; 
+
+}
+
+
+@font-face {
+    font-family: "ChonkfontBold";
+    src: url("./fonts/Chonkfont-Bold.otf");
 }
 
 h1{
-    font-size: 250%;
+        
+    font-family: "ChonkfontBold";
+    src: url("./fonts/Chonkfont-Bold.otf");
+    
+     
+    font-size: xxx-large;
+    
 }
 
 p{
-    font-size: 125%;
+    font-size: xxx-large;
 }
 
 button{
@@ -29,7 +60,7 @@ button{
     background-color: #000000;
     border: none;
     padding: 1%;
-    text-align: center;
+    /* text-align: center; */
     color: aliceblue;
     
     font-family: "Silkscreen", sans-serif;
@@ -45,6 +76,7 @@ button:hover {
 
 ul {
     list-style: none;
+    font-size: xx-large;
 }
 
 
