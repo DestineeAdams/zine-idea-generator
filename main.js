@@ -10,13 +10,17 @@ function generate() {
             "winter",
             "summer",
             "spring",
-            "your favorite season"
+            "your favorite season",
+            "wildlife you've seen in your area",
+            "cloud shapes you've seen",
+            "the climate in your regions"
+
         ],
     
         thing: [
             "photos",
             "drawings",
-            "poem",
+            "poem(s)",
             "maps"
         ],
     
