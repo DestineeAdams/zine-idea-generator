@@ -55,31 +55,112 @@ p{
 }
 
 button{
-  
-    font-size: 100%;
     background-color: #000000;
     border: none;
     padding: 1%;
-    /* text-align: center; */
+    margin: 2% 1%;
     color: aliceblue;
     
-    font-family: "Silkscreen", sans-serif;
+    font-family: "ChonkfontBold";
+    font-size: large;
 }
 
 button:hover {
     background-color: #4eac4b;
     color: rgb(255, 255, 255);
-    font-family: "Silkscreen", sans-serif;
     font-style: oblique;
 }
 
 
 ul {
     list-style: none;
-    font-size: xx-large;
+    font-size: large;
+    font-style: normal;
+
 }
 
 
 #idea {
     margin: 20px 100px;
+}
+
+
+@media (min-width: 100px) {
+    h1{
+        
+        font-family: "ChonkfontBold";
+        src: url("./fonts/Chonkfont-Bold.otf");
+         
+        font-size: x-large;
+    }
+    
+    p{
+        font-size: medium;
+    }
+    
+    div{
+        margin: 0%;
+        padding: 0%; 
+    
+    }
+    
+    #idea {
+        margin: 5% 2%;
+
+    }
+}
+
+
+@media (min-width: 300px) {
+    h1{
+        
+        font-family: "ChonkfontBold";
+        src: url("./fonts/Chonkfont-Bold.otf");
+         
+        font-size: xx-large;
+    }
+    
+    p{
+        font-size: large;
+    }
+    
+    div{
+        margin: 0%;
+        padding: 0%; 
+    
+    }
+    
+    #idea {
+        margin: 5% 2%;
+
+    }
+}
+
+
+
+@media (min-width: 600px) {
+    h1{
+        
+        font-family: "ChonkfontBold";
+        src: url("./fonts/Chonkfont-Bold.otf");
+        
+         
+        font-size: xxx-large;
+        
+    }
+    
+    p{
+        font-size: xx-large;
+    }
+    
+    div{
+        padding: 5% 0%;
+        margin: 0;
+    }
+    
+    ul {
+        font-size: x-large;
+        
+        
+    }
 }
