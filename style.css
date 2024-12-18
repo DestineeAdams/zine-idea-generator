@@ -91,11 +91,11 @@ ul {
         font-family: "ChonkfontBold";
         src: url("./fonts/Chonkfont-Bold.otf");
          
-        font-size: x-large;
+        font-size: xx-large;
     }
     
     p{
-        font-size: medium;
+        font-size: 200%;
     }
     
     div{
@@ -121,7 +121,7 @@ ul {
     }
     
     p{
-        font-size: large;
+        font-size: xx-large;
     }
     
     div{
