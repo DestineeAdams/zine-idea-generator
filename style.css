@@ -28,10 +28,10 @@ body{
 }
 
 div{
-    background-color: #97fd94;
     margin: 5% 1%;
     padding: 5%; 
-
+    
+    border-radius: 5px;
 }
 
 
@@ -46,12 +46,12 @@ h1{
     src: url("./fonts/Chonkfont-Bold.otf");
     
      
-    font-size: xxx-large;
+    font-size: xx-large;
     
 }
 
 p{
-    font-size: xxx-large;
+    font-size: xx-large;
 }
 
 button{
@@ -81,7 +81,7 @@ ul {
 
 
 #idea {
-    margin: 20px 100px;
+    margin: 20% 10%;
 }
 
 
@@ -117,17 +117,18 @@ ul {
         font-family: "ChonkfontBold";
         src: url("./fonts/Chonkfont-Bold.otf");
          
-        font-size: xx-large;
+        font-size: 60px;
     }
     
     p{
-        font-size: xx-large;
+        font-size: 40px;
     }
     
     div{
         margin: 0%;
         padding: 0%; 
-    
+        
+        background-color: none;
     }
     
     #idea {
