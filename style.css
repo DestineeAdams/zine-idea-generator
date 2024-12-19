@@ -128,7 +128,8 @@ ul {
         margin: 0%;
         padding: 0%; 
         
-        background-color: none;
+        background-color: #9cff98;
+        border-radius: 5px;
     }
     
     #idea {
