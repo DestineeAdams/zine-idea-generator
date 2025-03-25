@@ -1,3 +1,5 @@
+var clickSound = new Audio('./mouse-click-290204.mp3');
+
 let list = {
     nature: [
         "parks you have been to",
@@ -60,5 +62,6 @@ function getRandInt(listName) {
 document.querySelector('button').addEventListener('click', () => {
     document.querySelector("p").innerText = list.getContent();
     console.log("test");
+    clickSound.play();
     
 });
