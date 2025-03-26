@@ -7,8 +7,11 @@
 }
   
 body{
-    background-color: #96f293;
-    color: white;
+    background-image: url("./lightblubs.png");
+    background-repeat: repeat;
+    /* background-size: contain; */
+    
+    color: #ffffff;
     font-weight: bold;
     
     font: 150%  "ChonkfontBold";
@@ -18,7 +21,8 @@ body{
     
     display: flex;
     flex-direction: column
-
+    
+    
 }
 
 
@@ -27,11 +31,11 @@ nav{
 }
 
 article{
-    background-color: rgb(0, 0, 0);
+    background-color: #251265a2;
     border-radius: 10px;
     margin: 0% 25%;
-    padding: 5% 6%;
-
+    padding: 1% 6%;
+    height: 400px;
     display: flex;
     flex-direction: column; 
     justify-content: center;
@@ -39,13 +43,13 @@ article{
 
 button{
     
-    background-color: #96f293;
+    background-color: #d2b3cf;
     border: none;
     color: white;
     text-align: center;
     text-decoration: none;
     font-size: 16px;
-    padding: 5% 0;
+    padding: 2% 0;
     margin: 2% auto;
 
     border-radius: 10px;
@@ -55,8 +59,16 @@ button{
 }
 
 button:hover{
-    background-color: #ffffff;
-    color: black;
+    background-color: #fdb25c;
+    color: #351990;
+}
+
+a, a:visited{
+    color: white;
+}
+
+a:hover{
+    color: #fdb25c;
 }
 
 @media (min-width: 400px) and (max-width: 700px) {

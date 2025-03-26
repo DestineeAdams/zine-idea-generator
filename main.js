@@ -63,5 +63,4 @@ document.querySelector('button').addEventListener('click', () => {
     document.querySelector("p").innerText = list.getContent();
     console.log("test");
     clickSound.play();
-    
 });
