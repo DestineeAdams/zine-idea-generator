@@ -6,6 +6,7 @@
 ## How It's made:
 
 **Tech used:** html, css, javascript
+
   The project was inspired by this generator I stumbled across that generates ideas for generators. I wanted to challenge my self and see if I can make one myself.
   It works by filling out a template string with random selection from each of an object where every value is an array.
 
