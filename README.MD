@@ -1,6 +1,8 @@
 # zine idea generator 
   Sometimes I want to create a zine but struggle to find a topic—this project was my solution to that creative block. It taught me a lot about sentence construction and CSS and front end JavaScript, I had a blast     designing it.
 
+*link to project*: https://destineeadams.github.io/zine-idea-generator/
+
 ![demo gif](https://semii.space/files/zineIdeaGenerator.gif)
 
 ## How It's made:
