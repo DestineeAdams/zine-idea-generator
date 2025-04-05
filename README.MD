@@ -3,7 +3,7 @@
 
 *link to project*: https://destineeadams.github.io/zine-idea-generator/
 
-![demo gif](https://semii.space/files/zineIdeaGenerator.gif)
+![demo gif](https://github.com/DestineeAdams/portfolio-Website/blob/main/files/zineIdeaGenerator.gif?raw=true)
 
 ## How It's made:
 
