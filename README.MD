@@ -1,5 +1,6 @@
 # zine idea generator 
-  Sometimes I want to create a zine but struggle to find a topic—this project was my solution to that creative block. It taught me a lot about sentence construction and CSS and front end JavaScript, I had a blast     designing it.
+Sometimes, I want to create a zine but struggle to find a topic. This project was my solution to that creative block.
+
 
 *link to project*: https://destineeadams.github.io/zine-idea-generator/
 
@@ -7,13 +8,12 @@
 
 ## How It's made:
 
-**Tech used:** html, css, javascript
+**Tech used:** HTML, CSS, JavaScript.
 
-  The project was inspired by this generator I stumbled across that generates ideas for generators. I wanted to challenge my self and see if I can make one myself.
-  It works by filling out a template string with random selection from each of an object where every value is an array.
+The project was inspired by a generator I stumbled upon that generates ideas for generators. I wanted to challenge myself and see if I could make one myself. It works by filling out a template string with random selections from each object, where every value is an array.
 
 ## Optimizations:
-  The project is not prefect, the text will bounce around. need to fix that
+The project is not perfect; the text will bounce around. Needs to be fixed.
 
 ## credit:
   [photo](https://unsplash.com/photos/lighted-vintage-light-bulbs-1NTFSnV-KLs) by Patrick Tomasso. I ran the image was ran through this tool [dither me this](https://doodad.dev/dither-me-this/).
