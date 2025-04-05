@@ -1,6 +1,5 @@
 # zine idea generator 
-Sometimes, I want to create a zine but struggle to find a topic. This project was my solution to that creative block.
-
+A creative tool made for zine makers who want inspiration. Generates random zine ideas using sentence logic and prompts.
 
 *link to project*: https://destineeadams.github.io/zine-idea-generator/
 
